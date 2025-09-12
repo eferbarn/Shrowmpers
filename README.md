@@ -1,2 +1,4 @@
 # Shrowmpers
-Anoma Tap-To-Shrimp
+Anoma Tap-To-Shrimp game
+
+![./public/Shrowmpers.png](./public/Shrowmpers.png)
